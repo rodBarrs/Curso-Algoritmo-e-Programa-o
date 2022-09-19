@@ -24,6 +24,8 @@ public class Equacao2Grau {
             x2 = -b + (Math.sqrt(delta))/ 2*a;
             System.out.println("O valor de x1= "+ x1 );
             System.out.println("O valor de xx= "+ x2 );
+        }else {
+            System.out.println("Não existem raizes reais!");
         }
 
     }

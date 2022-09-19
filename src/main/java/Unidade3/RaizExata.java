@@ -15,6 +15,8 @@ public class RaizExata {
 
         if (raizExata == maiorValor){
             System.out.println("Existe Raiz Exata para o numero " + numero);
+        }else {
+            System.out.println("Não existe Raiz Exata para o numero " + numero);
         }
     }
 

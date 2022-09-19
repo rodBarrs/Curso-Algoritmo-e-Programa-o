@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd55bcb-f18e-4c06-bcc7-df75a14b47bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade3/PesoIdeal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Unidade3/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Unidade3/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Unidade3/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Unidade3/Numero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Unidade3/Equacao2Grau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Unidade3/Equacao2Grau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Unidade3/RaizExata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Unidade3/RaizExata.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aluno">
+  <component name="RunManager" selected="Application.PesoIdeal">
     <configuration name="Aluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unidade3.Aluno" />
       <module name="cursoAlgoritmoEProgramacao" />
@@ -66,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LanHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade2.LanHouse" />
+    <configuration name="Numero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade3.Numero" />
       <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unidade2.*" />
+          <option name="PATTERN" value="Unidade3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade3.Numero" />
+    <configuration name="PesoIdeal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade3.PesoIdeal" />
       <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aluno" />
-        <item itemvalue="Application.Numero" />
+        <item itemvalue="Application.PesoIdeal" />
         <item itemvalue="Application.RaizExata" />
         <item itemvalue="Application.Equacao2Grau" />
-        <item itemvalue="Application.LanHouse" />
+        <item itemvalue="Application.Aluno" />
+        <item itemvalue="Application.Numero" />
       </list>
     </recent_temporary>
   </component>
