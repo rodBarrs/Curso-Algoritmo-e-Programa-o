@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd55bcb-f18e-4c06-bcc7-df75a14b47bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade3/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade3/Equacao2Grau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade3/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade3/RaizExata.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Equacao2Grau">
+  <component name="RunManager" selected="Application.RaizExata">
     <configuration name="Aluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unidade3.Aluno" />
       <module name="cursoAlgoritmoEProgramacao" />
@@ -93,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RevendaVeiculos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade2.RevendaVeiculos" />
+    <configuration name="RaizExata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade3.RaizExata" />
       <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unidade2.*" />
+          <option name="PATTERN" value="Unidade3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RaizExata" />
         <item itemvalue="Application.Equacao2Grau" />
         <item itemvalue="Application.Numero" />
         <item itemvalue="Application.Aluno" />
         <item itemvalue="Application.LanHouse" />
-        <item itemvalue="Application.RevendaVeiculos" />
       </list>
     </recent_temporary>
   </component>
