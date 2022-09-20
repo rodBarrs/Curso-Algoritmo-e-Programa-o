@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd55bcb-f18e-4c06-bcc7-df75a14b47bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade3/AvaliacaoNota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade3/IdadeNadador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade3/Triangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,22 +38,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IdadeNadador">
+  <component name="RunManager" selected="Application.Triangulo">
     <configuration name="AvaliacaoNota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unidade3.AvaliacaoNota" />
-      <module name="cursoAlgoritmoEProgramacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unidade3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Equacao2Grau" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade3.Equacao2Grau" />
       <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -105,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Triangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade3.Triangulo" />
+      <module name="cursoAlgoritmoEProgramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unidade3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Triangulo" />
         <item itemvalue="Application.IdadeNadador" />
         <item itemvalue="Application.AvaliacaoNota" />
         <item itemvalue="Application.PesoIdeal" />
         <item itemvalue="Application.RaizExata" />
-        <item itemvalue="Application.Equacao2Grau" />
       </list>
     </recent_temporary>
   </component>
