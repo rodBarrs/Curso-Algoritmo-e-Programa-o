@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd55bcb-f18e-4c06-bcc7-df75a14b47bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/Sequenciais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/CalculaE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,20 @@
     "last_opened_file_path": "D:/Projetos/cursoAlgoritmoEProgramacao"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Sequenciais">
+  <component name="RunManager" selected="Application.CalculaE">
+    <configuration name="CalculaE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade4.CalculaE" />
+      <module name="cursoAlgoritmoEProgramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unidade4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculaMedia50Alunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unidade4.CalculaMedia50Alunos" />
       <module name="cursoAlgoritmoEProgramacao" />
@@ -56,21 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade2.Jantar" />
-      <module name="cursoAlgoritmoEProgramacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unidade2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MostraTabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.MostraTabuada" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade4.Fibonacci" />
       <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculaE" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Sequenciais" />
         <item itemvalue="Application.CalculaMedia50Alunos" />
         <item itemvalue="Application.Unidade4.NumeroDecrescente" />
-        <item itemvalue="Application.MostraTabuada" />
-        <item itemvalue="Application.Jantar" />
       </list>
     </recent_temporary>
   </component>
