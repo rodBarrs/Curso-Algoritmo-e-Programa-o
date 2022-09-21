@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd55bcb-f18e-4c06-bcc7-df75a14b47bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/CalculaMedia50Alunos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/MostraTabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/NumeroDecrescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/Sequenciais.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +42,7 @@
     "last_opened_file_path": "D:/Projetos/cursoAlgoritmoEProgramacao"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculaMedia50Alunos">
+  <component name="RunManager" selected="Application.Sequenciais">
     <configuration name="CalculaMedia50Alunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unidade4.CalculaMedia50Alunos" />
       <module name="cursoAlgoritmoEProgramacao" />
@@ -84,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unidade3.FormaPagamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade3.FormaPagamento" />
+    <configuration name="Sequenciais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade4.Sequenciais" />
       <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sequenciais" />
         <item itemvalue="Application.CalculaMedia50Alunos" />
         <item itemvalue="Application.Unidade4.NumeroDecrescente" />
         <item itemvalue="Application.MostraTabuada" />
         <item itemvalue="Application.Jantar" />
-        <item itemvalue="Application.Unidade3.FormaPagamento" />
       </list>
     </recent_temporary>
   </component>
