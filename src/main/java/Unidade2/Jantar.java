@@ -4,11 +4,14 @@ import javax.swing.*;
 
 public class Jantar {
     public static void main(String[] args) {
-        final double taxa_garcom = 0.1;
-        double valor_jantar, valor_jantar_total;
 
-        valor_jantar = Double.parseDouble(JOptionPane.showInputDialog("informar o valor do jantar "));
-        valor_jantar_total = valor_jantar + (taxa_garcom*valor_jantar);
+        Integer[] options = {15, 18,22};
+        final float taxa_garcom ;
+        float valor_jantar, valor_jantar_total;
+         taxa_garcom = (Integer)JOptionPane.showInputDialog(null, "Valor taxa Garçom",
+                null, JOptionPane.QUESTION_MESSAGE, null, options, null);
+        valor_jantar = Float.parseFloat(JOptionPane.showInputDialog("informar o valor do jantar "));
+        valor_jantar_total = valor_jantar + (taxa_garcom/100*valor_jantar);
         JOptionPane.showMessageDialog(null,"O valor do jantar total é de "+ valor_jantar_total);
 
     }
