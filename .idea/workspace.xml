@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd55bcb-f18e-4c06-bcc7-df75a14b47bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/CalculaE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/CadastraAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/CalculaMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/MenorValor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,20 @@
     "last_opened_file_path": "D:/Projetos/cursoAlgoritmoEProgramacao"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculaE">
+  <component name="RunManager" selected="Application.MenorValor">
+    <configuration name="CadastraAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade4.CadastraAluno" />
+      <module name="cursoAlgoritmoEProgramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unidade4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculaE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unidade4.CalculaE" />
       <module name="cursoAlgoritmoEProgramacao" />
@@ -57,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculaMedia50Alunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.CalculaMedia50Alunos" />
+    <configuration name="CalculaMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade4.CalculaMedia" />
       <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -83,21 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sequenciais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.Sequenciais" />
-      <module name="cursoAlgoritmoEProgramacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unidade4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Unidade4.NumeroDecrescente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.NumeroDecrescente" />
+    <configuration name="MenorValor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade4.MenorValor" />
       <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MenorValor" />
+        <item itemvalue="Application.CadastraAluno" />
+        <item itemvalue="Application.CalculaMedia" />
         <item itemvalue="Application.CalculaE" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.Sequenciais" />
-        <item itemvalue="Application.CalculaMedia50Alunos" />
-        <item itemvalue="Application.Unidade4.NumeroDecrescente" />
       </list>
     </recent_temporary>
   </component>
