@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd55bcb-f18e-4c06-bcc7-df75a14b47bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/NumeroEstrelas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/NumeroPrimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade5/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade5/CalculaVetor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +45,13 @@
       <recent name="Unidade4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumeroEstrelas">
-    <configuration name="Contas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.Contas" />
+  <component name="RunManager" selected="Application.CalculaVetor">
+    <configuration name="Aluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade5.Aluno" />
       <module name="Curso-Algoritmo-e-Programacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Unidade4.*" />
+          <option name="PATTERN" value="Unidade5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +59,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenorMaiorMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.MenorMaiorMedia" />
+    <configuration name="CalculaVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade5.CalculaVetor" />
+      <module name="Curso-Algoritmo-e-Programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unidade5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Contas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade4.Contas" />
       <module name="Curso-Algoritmo-e-Programacao" />
       <extension name="coverage">
         <pattern>
@@ -98,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopulacaoAB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.PopulacaoAB" />
-      <module name="Curso-Algoritmo-e-Programacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unidade4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculaVetor" />
+        <item itemvalue="Application.Aluno" />
         <item itemvalue="Application.NumeroEstrelas" />
         <item itemvalue="Application.NumeroPrimo" />
         <item itemvalue="Application.Contas" />
-        <item itemvalue="Application.MenorMaiorMedia" />
-        <item itemvalue="Application.PopulacaoAB" />
       </list>
     </recent_temporary>
   </component>
