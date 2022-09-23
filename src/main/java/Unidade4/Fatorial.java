@@ -19,6 +19,13 @@ public class Fatorial {
 
         System.out.println("O fatorial do número "+numero+": "+ fatorial);
 
+        System.out.println("Informar o número: ");
+        int age = teclado.nextInt();
+
+        String result = (age > 18) ? "yes you can vote!" : "No, you can t  vote";
+        System.out.println(result);
+
+
     }
 
 }

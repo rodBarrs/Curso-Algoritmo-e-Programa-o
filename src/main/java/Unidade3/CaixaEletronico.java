@@ -18,13 +18,13 @@ public class CaixaEletronico {
             notas10 = Math.floor(resto/10);
 
             if (notas100 > 0){
-                System.out.println("O número de notas de cem= "+ notas100);
+                System.out.println("O número de notas de cem: "+ notas100);
             }
             if (notas50 > 0){
-                System.out.println("O número de notas de cinquenta= "+ notas50);
+                System.out.println("O número de notas de cinquenta: "+ notas50);
             }
             if (notas10 > 0){
-                System.out.println("O número de notas de dez= "+ notas10);
+                System.out.println("O número de notas de dez: "+ notas10);
             }
         }else {
             System.out.println("Valor informado do saque está incorreto!");
