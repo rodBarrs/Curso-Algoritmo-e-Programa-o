@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd55bcb-f18e-4c06-bcc7-df75a14b47bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/Contas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/MenorMaiorMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/NumeroEstrelas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade4/NumeroPrimo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="Unidade4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Contas">
+  <component name="RunManager" selected="Application.NumeroEstrelas">
     <configuration name="Contas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Unidade4.Contas" />
       <module name="Curso-Algoritmo-e-Programacao" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenorValorv2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.MenorValorv2" />
+    <configuration name="NumeroEstrelas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade4.NumeroEstrelas" />
       <module name="Curso-Algoritmo-e-Programacao" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumerosPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.NumerosPares" />
+    <configuration name="NumeroPrimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade4.NumeroPrimo" />
       <module name="Curso-Algoritmo-e-Programacao" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumeroEstrelas" />
+        <item itemvalue="Application.NumeroPrimo" />
         <item itemvalue="Application.Contas" />
         <item itemvalue="Application.MenorMaiorMedia" />
         <item itemvalue="Application.PopulacaoAB" />
-        <item itemvalue="Application.NumerosPares" />
-        <item itemvalue="Application.MenorValorv2" />
       </list>
     </recent_temporary>
   </component>
