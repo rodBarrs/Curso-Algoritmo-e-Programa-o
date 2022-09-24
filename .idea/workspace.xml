@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd55bcb-f18e-4c06-bcc7-df75a14b47bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade5/MatrizIdentidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matriz.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contatos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade5/Arquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade5/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade5/Matematica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Unidade5/MatrizIdentidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Unidade5/MatrizIdentidade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +49,10 @@
       <recent name="Unidade4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MatrizIdentidade">
-    <configuration name="Aluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade5.Aluno" />
-      <module name="Curso-Algoritmo-e-Programacao" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Arquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade5.Arquivo" />
+      <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Unidade5.*" />
@@ -58,9 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculaVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade5.CalculaVetor" />
-      <module name="Curso-Algoritmo-e-Programacao" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade5.Fibonacci" />
+      <module name="cursoAlgoritmoEProgramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Unidade5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matematica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unidade5.Matematica" />
+      <module name="cursoAlgoritmoEProgramacao" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Unidade5.*" />
@@ -97,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumeroEstrelas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unidade4.NumeroEstrelas" />
-      <module name="Curso-Algoritmo-e-Programacao" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Unidade4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Matematica" />
         <item itemvalue="Application.MatrizIdentidade" />
+        <item itemvalue="Application.Arquivo" />
         <item itemvalue="Application.NotasAluno" />
-        <item itemvalue="Application.CalculaVetor" />
-        <item itemvalue="Application.Aluno" />
-        <item itemvalue="Application.NumeroEstrelas" />
       </list>
     </recent_temporary>
   </component>

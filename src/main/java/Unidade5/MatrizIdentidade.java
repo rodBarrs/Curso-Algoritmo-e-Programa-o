@@ -1,9 +1,16 @@
 package Unidade5;
 
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+
 public class MatrizIdentidade {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         int i,j;
         int I[][] = new int [3][3];
+
+        FileWriter rq = new FileWriter("Matriz.txt");
+        PrintWriter gravaarq = new PrintWriter(rq);
 
         for (i = 0; i<3; i++){
             for (j=0;j<3;j++){
@@ -17,9 +24,12 @@ public class MatrizIdentidade {
 
         for (i = 0; i<3; i++){
             for (j=0;j<3;j++){
-                System.out.print(I[i][j]);
+                gravaarq.print(I[i][j]);
             }
-            System.out.println();
+                gravaarq.println();
         }
+
+        rq.close();
+        gravaarq.close();
     }
 }
